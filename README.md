@@ -1,4 +1,4 @@
-# Music Box
+# AtomGag
 
 Browse 9gag without leaving Atom !
 
